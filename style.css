@@ -1,0 +1,38 @@
+h1 {
+    text-align: center;
+    font-family: 'Arvo', serif;
+    font-size: 68px;
+}
+
+.option {
+    border-radius: 20px;
+    border: 3px solid black;
+    font-family: 'Arvo', serif;
+    font-size: 30px;
+    text-align: center;
+    margin: 0;
+    width: 250px;
+    height: 100px;
+    position: relative;
+}
+.buttons {
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+}
+.dop {
+    margin-bottom: 25px;
+    
+}
+.off {
+    background-color: white;
+}
+.green {
+    background-color: lime;
+}
+.red {
+    background-color: #f74242;
+}
+.party {
+    background: linear-gradient(to right, red, #ff5900, orange, #ffbb00, yellow, #d8ff00, #00ff00, #00ff8c, cyan, #0087ff, blue, #6e00ff, violet);
+}
