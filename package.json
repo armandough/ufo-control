@@ -1,0 +1,22 @@
+{
+  "name": "ufo-control",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp files"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armandough/ufo-control.git"
+  },
+  "author": "Armando",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/armandough/ufo-control/issues"
+  },
+  "homepage": "https://github.com/armandough/ufo-control#readme",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  }
+}
